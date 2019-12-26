@@ -1,2 +1,4 @@
 t is new file
+this is line no.2
+this line no.3
 :qw
